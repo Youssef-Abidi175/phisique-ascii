@@ -1,2 +1,2 @@
 # phisique-ascii
-moteur de phisique 2d en ascii trés basique
+moteur de physique 2d en ascii trés basique
